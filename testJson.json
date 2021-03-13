@@ -1,0 +1,261 @@
+[
+  {
+    "Content": "Tìm hai số có tỉ số bằng 3. Biết nếu bớt 10 ở số thứ nhất và thêm 10 vào số thứ hai thì ta được hai số mới có tỉ số là  5/3",
+    "IsImage": false,
+    "Answers": [
+      {
+        "Content": "Số thứ nhất là: 90 \nSố thứ hai là: 30",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số thứ nhất là: 50 \nSố thứ hai là: 150",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số thứ nhất là: 70 \nSố thứ hai là: 210",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số thứ nhất là: 60 \nSố thứ hai là: 20",
+        "IsImage": true,
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Content": "Tìm hai số có tỉ số bằng 3/4. Biết nếu thêm 6 vào số thứ nhất và bớt 6 ở số thứ hai thì ta được hai số mới có tỉ số là 4/3",
+    "IsImage": false,
+    "Answers": [
+      {
+        "Content": "Số thứ nhất là: 24 \nSố thứ hai là: 18",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số thứ nhất là: 20 \nSố thứ hai là: 32",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số thứ nhất là: 32 \nSố thứ hai là: 20",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số thứ nhất là: 18 \nSố thứ hai là: 24",
+        "IsImage": true,
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Content": "Tìm hai số có tỉ số bằng 5/4. Biết nếu bớt 15 ở số thứ nhất và thêm 15 vào số thứ hai thì ta được hai số mới có tỉ số là 5/7.",
+    "IsImage": false,
+    "Answers": [
+      {
+        "Content": "Số thứ nhất là: 68\nSố thứ hai là: 60",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số thứ nhất là: 50 \nSố thứ hai là: 40",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số thứ nhất là: 60 \nSố thứ hai là: 48",
+        "IsImage": true,
+        "IsCorrect": true
+      },
+      {
+        "Content": "Số thứ nhất là: 58 \nSố thứ hai là: 40",
+        "IsImage": true,
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Tìm phân số có giá trị bằng 2. Biết nếu thêm 8 vào tử số và bớt 8 ở mẫu số thì ta được phân số mới có giá trị là 7/2.",
+    "IsImage": false,
+    "Answers": [
+      {
+        "Content": "50/25",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "48/24",
+        "IsImage": true,
+        "IsCorrect": true
+      },
+      {
+        "Content": "12/6",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "24/12",
+        "IsImage": true,
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Tìm phân số có giá trị bằng 7/3. Biết nếu bớt 15 ở tử số và thêm 15 ở mẫu số thì ta được phân số mới có giá trị là  13/7",
+    "IsImage": false,
+    "Answers": [
+      {
+        "Content": "190/80",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "120/70",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "210/90",
+        "IsImage": true,
+        "IsCorrect": true
+      },
+      {
+        "Content": "250/60",
+        "IsImage": true,
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Tỉ số sách ngăn I và ngăn II bằng 3/5. Nếu chuyển 12 quyển sách ngăn II sang ngăn 1 thì số sách hai ngăn bằng nhau. Tính số sách mỗi ngăn lúc đầu.",
+    "IsImage": false,
+    "Answers": [
+      {
+        "Content": "Ngăn 1: 42 quyển\nNgăn 2: 12 quyển",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Ngăn 1: 60 quyển\nNgăn 2: 36 quyển",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Ngăn 1: 25 quyển\nNgăn 2: 52 quyển",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Ngăn 1: 36 quyển\nNgăn 2: 60 quyển",
+        "IsImage": true,
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Content": "Tỉ số sách ngăn I và ngăn II bằng 12/5 nếu chuyển 10 cuốn sách từ ngăn II sang ngăn I thì số sách ngăn I bằng  14/3 số sách ngăn II. Tính số sách mỗi ngăn lúc đầu.",
+    "IsImage": false,
+    "Answers": [
+      {
+        "Content": "Ngăn 1: 25 quyển\nNgăn 2: 60 quyển",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Ngăn 1: 65 quyển\nNgăn 2: 25 quyển",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Ngăn 1: 60 quyển\nNgăn 2: 25 quyển",
+        "IsImage": true,
+        "IsCorrect": true
+      },
+      {
+        "Content": "Ngăn 1: 20 quyển\nNgăn 2: 65 quyển",
+        "IsImage": true,
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Tỉ số học sinh nam so với nữ của một trường là 3/4. Nếu trường nhận thêm 60 học sinh nam và chuyển đi 60 học sinh nữ thì tỉ số giữa học sinh nam và nữ là 18/17.Tính số học sinh nam, số học sinh nữ ban đầu của trường ? ",
+    "IsImage": false,
+    "Answers": [
+      {
+        "Content": "Số học sinh nam: 300 học sinh\nSố học sinh nữ: 400 học sinh",
+        "IsImage": true,
+        "IsCorrect": true
+      },
+      {
+        "Content": "Số học sinh nam: 340 học sinh\nSố học sinh nữ: 440 học sinh",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số học sinh nam: 360 học sinh\nSố học sinh nữ: 460 học sinh",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số học sinh nam: 320 học sinh\nSố học sinh nữ: 420 học sinh",
+        "IsImage": true,
+        "IsCorrect": false
+      }
+    ]
+  },
+  {
+    "Content": "Tỉ số học  sinh nữ so với nam của một trường là  6/5  Nếu chuyển đi 50 bạn nữ và nhận thêm 50 bạn nam thì tỉ số giữa học sinh nữ và nam là  5/6. Tính số học sinh nam, số học sinh nữ ban đầu của trường. ",
+    "IsImage": false,
+    "Answers": [
+      {
+        "Content": "Số học sinh nam: 260 học sinh\nSố học sinh nữ: 360 học sinh",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số học sinh nam: 250 học sinh\nSố học sinh nữ: 340 học sinh",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số học sinh nam: 250 học sinh\nSố học sinh nữ: 320 học sinh",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số học sinh nam: 250 học sinh\nSố học sinh nữ: 300 học sinh",
+        "IsImage": true,
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "Content": "Tìm hai số có tỉ số bằng 1/3. Biết nếu thêm 14 vào số thứ nhất và bớt 14 ở số thứ hai thì ta được hai số mới có tỉ số là 3/5.",
+    "IsImage": false,
+    "Answers": [
+      {
+        "Content": "Số thứ nhất là: 15 \nSố thứ hai là: 45",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số thứ nhất là: 28 \nSố thứ hai là: 84",
+        "IsImage": true,
+        "IsCorrect": true
+      },
+      {
+        "Content": "Số thứ nhất là: 10 \nSố thứ hai là: 30",
+        "IsImage": true,
+        "IsCorrect": false
+      },
+      {
+        "Content": "Số thứ nhất là: 20 \nSố thứ hai là 60",
+        "IsImage": true,
+        "IsCorrect": false
+      }
+    ]
+  }
